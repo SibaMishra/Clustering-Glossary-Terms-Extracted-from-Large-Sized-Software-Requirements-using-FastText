@@ -1,0 +1,293 @@
+Extracted Glossary Terms (With WordNet Removal Total 143),Extracted Glossary Terms (Without WordNet Removal) (Total 292),Ground Truth Glossary Terms (Total 120)
+accidental shock , ability, ac
+actual appliance, ac, air conditioning
+added measure , accidental shock, air purity controller
+air purity controller , activity, air quality
+anyone , actual appliance, alarm
+anything , added measure, app
+app , adjust, appliance
+appropriate time , air, auto sprinkler
+audio listening , air purity controller, automated food bowl
+auto sprinkler , alarm, automated music system
+automatic fragrance sprinkler , alert, automated sharp furniture sensor
+automatic garage door , amount, automatic fragrance sprinkler
+baby room , animal, automatic garage door opener
+background music , anyone, background music
+battery limit , anything, bad odour
+big saving , app, biorhythm app
+biorhythm app , appropriate time, blind
+breakfast food , area, breakfast food
+carbon monoxide , audio listening, buzz
+central system , auto sprinkler, call
+certain light, automatic fragrance sprinkler, carbon monoxide
+certain television , automatic garage door, carbon monoxide detector
+child nears, baby, ceiling fan
+class reminder , baby room, certain light
+daily recommendation , background music, christmas light
+dangerous gas , battery, class reminder
+dangerous place , battery limit, control comfort
+day benefit, bed, control over temperature
+desired temperature , bedroom, cooler
+different time , big saving, dangerous gas
+door look , bill, desired temperature
+easy status update , biorhythm app, device
+electricity bill , body, door
+energy bill , box, doorbell
+energy consumption , bracelet, ductless heat pump
+energy consumption electricity gas , breakfast food, electricity
+energy cost , car, emergency
+energy use , carbon, energy efficient
+etc , carbon monoxide, environment
+family member , care, garage door
+favorite show , case, hallway motion detector
+food bowl , central system, heat source
+food preparation , certain light, heater
+full home sport , certain television, home sport experience
+garage door , child, ideal temperature
+good night , child nears, integrated smart electronics
+good way , chore, intruder
+greets , class, ir bracelet
+hallway motion detector , class reminder, lighting
+health goal , coffee, lock
+heat source , combination, manually vacuum
+home air , comfort, minimum required amount of time
+home door , control, mobile phone
+home ductless heat pump regular furnace space heater , convenient, monitor my energy use
+home safety , cut, music
+home turn , daily recommendation, nfc
+house simultaneously party , dangerous gas, notification
+ideal temperature , dangerous place, optimal
+integrated roomba vacuum , date, optimal condition
+kitchen item , day, optimal temperature
+learning thermostat , day benefit, outdoor motion detector
+limit benefit , dentist, outdoor motion sensor
+lock relock , desired temperature, oven
+long day , detector, pet water container
+lunch time , device, plant soil
+main gate , different time, police
+minimum required amount , dinner, potential health concern
+mobile phone , distance, push notification
+movie suggestion , disturbance, radio system
+music system , doctor, recommendation
+new movie , dog, registered occupant
+new product , door, regular furnace
+nfc , door look, remote
+nice walk today, doorbell, remote control opener
+night sleep , doorstep, remote location
+occurs , dusk, robot
+optimal condition , easy status update, room lighting
+optimal temperature , effect, sensor
+order delivery food , electricity, shade
+other thing , electricity bill, shock
+outdoor motion detector , emergency, shower
+outdoor motion sensor , energy, sink
+outdoor safety light , energy bill, smart appliance
+outside temperature , energy consumption, smart breakfast appliance
+overall health , energy consumption electricity gas, smart carbon monoxide detector
+package delivery , energy cost, smart coffee machine
+packaging information , energy use, smart device
+party guest , environment, smart feature
+personal preference , etc, smart home
+pet water container , experience, smart lock
+plant soil , family, smart phone
+pleasant mood everytime , family member, smart shower
+potential health concern , favorite show, smart thermostat
+potential intruder, feed, smart touch screen tv
+potential weather issue , fire, smart watch application
+present air quality , floor, socket adapter
+push notification , food, sound
+radio system , food bowl, space heater
+registered occupant , food preparation, stove
+relevant information , fruit, stovetop
+remote control , full home sport, sync
+remote control opener , garage, tablet
+remote location , garage door, team goal
+respiratory issue , gesture, television
+room lighting , good night, temperature sensor
+scheduled timing , good way, text
+sharp furniture sensor , greets, text message
+simple voice command , guest, thermostat
+single room , habit, toaster
+smart breakfast appliance , hallway motion detector, tv
+smart carbon monoxide detector , harm, vacuum cleaner
+smart coffee machine , health goal, video camera
+smart device , heat source, video feed
+smart electronics , hobby, voice command
+smart feature , home, weather alert
+smart home , home air, weather outside
+smart lock , home door, window
+smart shower , home ductless heat pump regular furnace space heater, window fan
+smart thermostat , home safety, window sensor
+smart touchscreen tv , home turn, wireless charger
+smart window cleaner , house,
+smarthome , house simultaneously party,
+smartphone , ideal temperature,
+smartwatch application , incase,
+snow high wind , indoor,
+socket adapter , integrated roomba vacuum,
+something , intruder,
+sound temperature , ir,
+specific sound , issue,
+stovetops , kid,
+such place , kitchen item,
+team goal home , label,
+teenage child , learning thermostat,
+temprature , light,
+temprature sensor , limit benefit,
+text message , location,
+video camera , lock relock,
+weather adjustment , long day,
+weather alert , lunch time,
+window fan ceiling fan ductless heat pump etc , main gate,
+window sensor, match,
+wireless charger , minimum required amount,
+young child movement, minute,
+, mobile phone,
+, money,
+, monoxide,
+, mood,
+, morning,
+, movie suggestion,
+, music,
+, music system,
+, need,
+, new movie,
+, new product,
+, news,
+, nfc,
+, nice walk today,
+, night,
+, night sleep,
+, nobody,
+, notification,
+, object,
+, occurs,
+, one,
+, optimal condition,
+, optimal temperature,
+, order,
+, order delivery food,
+, other thing,
+, outdoor,
+, outdoor motion detector,
+, outdoor motion sensor,
+, outdoor safety light,
+, outside temperature,
+, oven,
+, overall health,
+, package delivery,
+, packaging information,
+, party guest,
+, people,
+, person,
+, personal preference,
+, pet,
+, pet water container,
+, photo,
+, picture,
+, plant,
+, plant soil,
+, play,
+, pleasant mood everytime,
+, police,
+, pollution,
+, potential health concern,
+, potential intruder,
+, potential weather issue,
+, present air quality,
+, property,
+, push notification,
+, radio system,
+, recommendation,
+, registered occupant,
+, relevant information,
+, remote,
+, remote control,
+, remote control opener,
+, remote location,
+, respiratory issue,
+, robot,
+, room,
+, room lighting,
+, safety,
+, save,
+, schedule,
+, scheduled timing,
+, school,
+, security,
+, sensor,
+, sharp furniture sensor,
+, show,
+, shower,
+, simple voice command,
+, single room,
+, sink,
+, smart,
+, smart breakfast appliance,
+, smart carbon monoxide detector,
+, smart coffee machine,
+, smart device,
+, smart electronics,
+, smart feature,
+, smart home,
+, smart lock,
+, smart shower,
+, smart thermostat,
+, smart touchscreen tv,
+, smart window cleaner,
+, smarthome,
+, smartphone,
+, smartwatch application,
+, snow high wind,
+, socket adapter,
+, someone,
+, something,
+, sound,
+, sound temperature,
+, source,
+, specific sound,
+, start,
+, stock,
+, stove,
+, stovetops,
+, such place,
+, system,
+, table,
+, tablet,
+, team goal home,
+, teenage child,
+, teeth,
+, temperature,
+, temprature,
+, temprature sensor,
+, text,
+, text message,
+, theft,
+, time,
+, toaster,
+, trespasser,
+, turn,
+, tv,
+, type,
+, update,
+, use,
+, vacuum,
+, vegetable,
+, vehicle,
+, video,
+, video camera,
+, volume,
+, wall,
+, water,
+, weather,
+, weather adjustment,
+, weather alert,
+, welcome,
+, while,
+, window,
+, window fan ceiling fan ductless heat pump etc,
+, window sensor,
+, wireless charger,
+, work,
+, year,
+, young child movement,
