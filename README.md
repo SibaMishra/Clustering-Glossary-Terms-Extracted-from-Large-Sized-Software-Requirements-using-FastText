@@ -12,6 +12,8 @@ We have extracted a total of 143 and 292 glossary terms from the CrowdRE dataset
 For evaluating the efficacy of the clustering algorithms, we used some commonly used performance evaluation metrics like (precision, recall, f-scores). The evaluation graphs utilizing the area under curve plots (AUC) and evaluating the normalized AUC scores for all the used clustering algorithms are trained on two different datasets and the evaluation results are shown in the two separate files namely, "Cluster Plots.docx" and "Extraction +Clustering Plots.docx" respectively.
 
 
+# Publication Details
+
 If you find the above mentioned details useful for your research, please cite the following paper.
 
 Kushagra Bhatia, Siba Mishra, Arpit Sharma. Clustering Glossary Terms Extracted from Large-Sized Software Requirements using FastText. In Proceedings of the 13th Innovations in Software Engineering Conference (ISEC'2020) (Formerly known as India Software Engineering Conference), Jabalpur, Madhya Pradesh, India. Article 5, 1–11. DOI: https://doi.org/10.1145/3385032.3385039
